@@ -1,0 +1,112 @@
+{
+    "productCatalog": {
+      "0": [
+        {
+          "id": "1",
+          "name": "Crystal Chandelier",
+          "image": "/images/",
+          "specs": {
+            "Brand": "60W",
+            "Model": "24\" x 24\" x 30\"",
+            "material": "Crystal and Chrome",
+            "bulbType": "E12 LED"
+          }
+        },
+        {
+          "id": "2",
+          "name": "Wall Sconce",
+          "image": "/images/sconce.jpg",
+          "specs": {
+            "wattage": "40W",
+            "dimensions": "6\" x 8\" x 12\"",
+            "material": "Brass",
+            "bulbType": "E26 LED"
+          }
+        }
+      ],
+      "1": [
+        {
+          "id": "3",
+          "name": "LED Panel Light",
+          "image": "/images/panel.jpg",
+          "specs": {
+            "wattage": "45W",
+            "dimensions": "2x2 ft",
+            "lumens": "3600lm",
+            "lifespan": "50000 hours"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Track Light System",
+          "image": "/images/tracklight.png",
+          "specs": {
+            "wattage": "35W",
+            "length": "8 ft",
+            "spots": "4 adjustable heads",
+            "color": "Black/White"
+          }
+        }
+      ],
+      "2": [
+        {
+          "id": "5",
+          "name": "Chimney",
+          "image": "/images/Sakashchimney.png",
+          "specs": {
+            "Brand": "SAKASH",
+            "dimensions": "2x2 ft",
+            "lumens": "3600lm",
+            "lifespan": "50000000 hours"
+          }
+        },
+        {
+          "id": "6",
+          "name": "Chimney",
+          "image": "/images/Inalsachimney.jpg",
+          "specs": {
+            "Brand": "INALSA",
+            "dimensions": "2x2 ft",
+            "lumens": "3600lm",
+            "lifespan": "50000000 hours"
+          }
+        }
+      ],
+      "3": [
+        {
+          "id": "5",
+          "name": "LED Panel Light",
+          "image": "/images/panel.jpg",
+          "specs": {
+            "wattage": "45W",
+            "dimensions": "2x2 ft",
+            "lumens": "3600lm",
+            "lifespan": "50000 hours"
+          }
+        }
+      ]
+    },
+    "services": [
+      {
+        "title": "Designer Lighting Solution",
+        "description": "Elegant and energy-efficient designer lighting, including chandeliers and decorative fixtures, to enhance your home's ambiance.",
+        "image": "/images/lighting.png"
+      },
+      {
+        "title": "Commercial Electrical Solutions",
+        "description": "Reliable electrical installations, maintenance, and upgrades for offices, shops, and commercial spaces.",
+        "image": "/images/tracklight.png"
+      },
+      {
+        "title": "Home Electrical Solutions",
+        "description": "A complete range of wiring, lighting, and switchgear solutions to power your home safely and efficiently.",
+        "image": "/images/anchorziva.png"
+      },
+      {
+        "title": "Kitchen Electrical Solutions",
+        "description": "Specialized electrical fittings, including modular switches, lighting, and appliances, designed for modern kitchens.",
+        "image": "/images/chimney.svg"
+      }
+    ]
+  }
+  
